@@ -1,0 +1,1 @@
+flux.track("view");
